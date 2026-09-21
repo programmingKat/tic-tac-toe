@@ -2,6 +2,24 @@
 //box clicked (event listener)
 // second player (o) 
 
+// class Game(){
+//     constructor(){
+
+//     }
+// }
+
+// class Player{
+//     constructor(){
+//         this
+//     }
+
+//     checkForDraw(){
+
+//     }
+//     checkForWin(){
+
+//     }
+// }
 
 //logic
 //if currentplayer =1 inner text = X
@@ -35,3 +53,15 @@ function checkForDraw(){
         alert('monkeys game')
     }
 }
+
+// function checkForWin(){
+//     Index wins for tictactoe
+// 036
+// 147
+// 258
+// 012
+// 345
+// 678
+// 246
+// 018
+// }
